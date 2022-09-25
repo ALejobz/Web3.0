@@ -13,3 +13,6 @@ El desarrollo de cada integrante se puede encontrar en la carpeta de [COINS](htt
 Creación de un contrato inteligente en Solidity que permite guardar el el soporte de emisión de certificados de asistencia a un curso en blockchain.
 El desarrollo de esta parte se puede encontrar en la carpeta de [PROY1](https://github.com/ALejobz/Web3.0/tree/master/PROY1).
 Los otros archivos y las otras carpetas dan apoyo a esta parte de la tarea (se utilizo NodeJS).
+
+## Presentación
+La presentación de la tarea se encuentra en la carpeta de [Presentacion](https://github.com/ALejobz/Web3.0/tree/master/Presentacion), con las diapositivas en formato PDF y PPTX por si acaso.
